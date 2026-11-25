@@ -1,2 +1,1 @@
-# mainpage
-this is my main page
+This here is my first program on github ever :)
